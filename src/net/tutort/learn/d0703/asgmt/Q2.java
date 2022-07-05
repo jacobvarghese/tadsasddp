@@ -5,7 +5,7 @@ package net.tutort.learn.d0703.asgmt;
 
 public class Q2 {
     public static void main(String[] args) {
-        int a[] = {10, 20, 30, 40, 50, 60, 70};
+        int[] a = {10, 20, 30, 40, 50, 60, 70};
         int key = 4;
 
         System.out.println(a[key]);

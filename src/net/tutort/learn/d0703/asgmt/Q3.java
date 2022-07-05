@@ -5,7 +5,7 @@ package net.tutort.learn.d0703.asgmt;
 
 public class Q3 {
     public static void main(String[] args) {
-        int a[] = {1, 2, 4, 5, 8, 10}; //sorted array
+        int[] a = {1, 2, 4, 5, 8, 10}; //sorted array
         int x = 9;
         int count = 0;
 
